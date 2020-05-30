@@ -1,4 +1,4 @@
-# NJ-Transit-Delay-Analysis
+## NJ-Transit-Delay-Analysis
 
 In this project I have compiled delay of trains of NJ Transit using libraries numpy, pandas, matplotlib to visualize the data and descriptive statistics of data.
 
