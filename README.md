@@ -13,12 +13,12 @@ STEPS INCLUDED:
 7. Function to plot pie charts with matplotlib  </br> 
 8. Drop all the Amtrak values in each month </br>  
 9. Group by train ID and date </br>
-10.Counting delay minutes from data greater than zero </br>
-11.Converting delay minutes into list </br>
-12.Displaying per month delays </br>
-13.Displaying July delays </br>
-14.Status of trains in July </br>
-15.Most delayed lines in July </br>
-16.Number of trips for each line </br>
+10. Counting delay minutes from data greater than zero </br>
+11. Converting delay minutes into list </br>
+12. Displaying per month delays </br>
+13. Displaying July delays </br>
+14. Status of trains in July </br>
+15. Most delayed lines in July </br>
+16. Number of trips for each line </br>
 
 Data Source: "https://www.kaggle.com/pranavbadami/nj-transit-amtrak-nec-performance”"
